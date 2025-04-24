@@ -214,7 +214,7 @@
     display: flex;
     gap: 0.5rem;
     width: 100%;
-    overflow-x: auto;
+    overflow-x: hidden;
     scroll-snap-type: x mandatory;
     scroll-padding: 0 calc(50% - 100px); /* metade da largura do container menos metade do produto (200px / 2) */
     padding: 1rem 0;
